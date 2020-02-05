@@ -14,7 +14,7 @@
 - Basic knowledge: Ajax, regEx, JSON
 - Photoshop (minimally)
 ## Experience: 
-- Courses:  [link to htmlacademy profile](https://htmlacademy.ru/profile/ange2912), codecademy(html, css)
+- Courses:  [link to htmlacademy profile](https://htmlacademy.ru/profile/ange2912), codecademy
 - Development of own training project. I have done the working model with JS, PHP, mySQL inside.
 ## Education: 
 - Sukhoi State Technical University of Gomel
