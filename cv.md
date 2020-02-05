@@ -12,7 +12,7 @@
 - Version control: Git
 - Metodologies: BEM
 - Basic knowledge: Ajax, regEx, JSON
-- Photoshop (minimally)
+- Photoshop (basic)
 ## Experience: 
 - Courses:  [link to htmlacademy profile](https://htmlacademy.ru/profile/ange2912), codecademy
 - Development of own training project. I have done the working model with JS, PHP, mySQL inside.
